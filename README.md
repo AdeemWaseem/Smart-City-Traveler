@@ -1,2 +1,16 @@
-# Smart-City-Traveler
-This App is mainly used by a traveler new to the city who wants to explore a city in the given time period, the system makes use of the API to get all the locations and places with all their information to sort and place it before the user in 3 paths to make his choice.
+# smart_travel_advisor
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
